@@ -1,1 +1,1 @@
-This project focuses on writing code for some common deep learning concepts like attention mechanisms, ViT, transformers, and computer vision topics from scratch.
+This project focuses on writing code for some common deep learning concepts like attention mechanisms, ViT, transformers, and computer vision topics from scratch. Each notebook contains a detailed explanation of the topic with comments on every step of implementation.
